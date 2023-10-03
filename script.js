@@ -1,3 +1,3 @@
 window.onload = function(){
-  // your code here...
+  alert("Welcome to my Portfolio page hosted on Github Pages!");
 }
